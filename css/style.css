@@ -1,0 +1,22 @@
+.banner {
+    font-family: 'Knewave',Arial, Helvetica, sans-serif ;
+    font-size: 100px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 300;
+    background-color: rgba(42, 55, 238, 0.877);
+    margin: 0px;
+    margin-bottom: auto;
+    margin-top: -40px;
+     color: rgb(253, 245, 245);
+    
+}
+
+div img {
+    margin: 220px;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 500px;
+    position: relative;
+    left: 145px;
+}
